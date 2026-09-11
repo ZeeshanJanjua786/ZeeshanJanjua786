@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZeeshanJanjua786
-- 👀 I’m interested in web development and app development coding...
-- 🌱 I’m currently learning BSCS 
+- 👀 Wordpress and Ecommerce website developer, experienced in C++, java, Dart and flutter.
+- 🌱 BSCS Graduate 
 - 💞️ I’m looking to collaborate on web and app development work
 
 <!---
